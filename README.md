@@ -1,6 +1,6 @@
 # Statistics with Python Specialization by University of Michigan
 This repository consists of python scripts that I have written for practice
-while learning statistics with python from the [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)offered on Coursera by the University of Michigan. The specialization includes three courses. Practice and assignment are available for all three courses.
+while learning statistics with python from the [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) offered on Coursera by the University of Michigan. The specialization includes three courses. Practice and assignment are available for all three courses.
 
 ## Practice
 #### The practice section includes code that explore the concepts that were learned each week.
